@@ -10,17 +10,7 @@ Unlike a standard torus, where the minor radius is a perfect circle, the astroid
 ### **Equation of the Astroid Torus**
 The parametric equations that define an Astroid Torus are:
 
-\[
-x = (R + r \cos^3(v)) \cos(u)
-\]
-
-\[
-y = r \sin^3(v)
-\]
-
-\[
-z = (R + r \cos^3(v)) \sin(u)
-\]
+![Image](https://github.com/user-attachments/assets/ae7349b4-b81b-4d5e-8746-c0b630aeb038)
 
 where:
 
