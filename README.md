@@ -26,17 +26,17 @@ where:
 
 - \( R \) = Major radius (distance from the center of the torus to the center of the tube)
 - \( r \) = Minor radius (size of the tube)
-- \( u \) and \( v \) are parameters ranging from \( 0 \) to \( 2\pi \), defining the toroidal and poloidal angles, respectively.
+- \( u \) and \( v \) are parameters ranging from \( 0 \) to 2π, defining the toroidal and poloidal angles, respectively.
 
 ---
 
 ### **Understanding the Equation**
 - **\( u \) Parameter (Torus Rotation Around Center):**
-  - The terms \( \cos(u) \) and \( \sin(u) \) define the circular motion around the torus, controlling how the shape loops around its main axis.
+  - The terms cos(u) and sin(u) define the circular motion around the torus, controlling how the shape loops around its main axis.
   
 - **\( v \) Parameter (Astroid Cross-section Shape):**
-  - Instead of using \( \cos(v) \) and \( \sin(v) \) directly (which would create a circular cross-section), we raise them to the power of 3:
-    - \( \cos^3(v) \) and \( \sin^3(v) \) distort the cross-section into an astroid shape.
+  - Instead of using cos(v) and sin(v) directly (which would create a circular cross-section), we raise them to the power of 3:
+    - cos³(v) and sin³(v) distort the cross-section into an astroid shape.
   
 - **Major and Minor Radii:**
   - The major radius \( R \) determines the overall size of the torus.
