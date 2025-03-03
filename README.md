@@ -47,7 +47,7 @@ where:
 ### **Visual Characteristics**
 1. **Astroid Shape in Cross-section**:  
    - The standard torus has a circular cross-section.
-   - The astroid torus, due to the power terms \( \cos^3(v) \) and \( \sin^3(v) \), deforms the tube into a shape resembling a squished diamond-like figure.
+   - The astroid torus, due to the power terms cos³(v) and sin³(v), deforms the tube into a shape resembling a squished diamond-like figure.
    
 2. **Smooth and Symmetrical**:  
    - The shape retains a high degree of symmetry but has a more complex, artistic curvature.
